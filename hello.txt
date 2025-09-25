@@ -1,1 +1,1 @@
-Add hello.txt with greeting
+Hello, Git and Github!
